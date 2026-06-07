@@ -26,6 +26,18 @@ Dataset Characteristics:
 * Preprocessed grayscale MRI scans
 * Separate training and testing splits
 
+
+The dataset used in this project is the Brain Tumor MRI Dataset available on Kaggle.
+
+Due to size and licensing considerations, the dataset is not included in this repository.
+
+Download the dataset from Kaggle and place it in the following directory:
+
+data/
+├── Training/
+└── Testing/
+
+
 Classes:
 
 1. Glioma Tumor
